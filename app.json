@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kskl-app",
+    "slug": "kskl-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kskl-app"
+}
