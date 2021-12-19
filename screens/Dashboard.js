@@ -268,7 +268,7 @@ return isLoading ? (
         justifyContent: 'space-around'
       },
       locateText: {
-        color: 'white', 
+        color: 'black', 
         textAlign: 'center',
         fontSize: 25,
         marginTop: 10,

@@ -9,7 +9,7 @@ export default function BranchManager() {
     return (
         <View>
             <TouchableOpacity style={styles.Button} onPress={navigateToScanner}>
-                <Text style={{color: '#fff', fontWeight: 'bold', fontSize:18}}>Log In</Text>
+                <Text style={{color: '#fff', fontWeight: 'bold', fontSize:18}}>Scan QR Code</Text>
             </TouchableOpacity>
         </View>
     )
